@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Normal output" << endl;
+    cerr << "Error output" << endl;
     return 0;
 }
